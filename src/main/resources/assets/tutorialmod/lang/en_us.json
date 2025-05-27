@@ -1,4 +1,12 @@
 {
   "item.tutorialmod.gingerbread": "Gingerbread",
-  "item.tutorialmod.raw_gingerbread": "Raw Gingerbread"
+  "item.tutorialmod.raw_gingerbread": "Raw Gingerbread",
+
+  "block.tutorialmod.gingerbread_block": "Block of Gingerbread",
+  "block.tutorialmod.raw_gingerbread_block": "Block of Raw Gingerbread",
+  "block.tutorialmod.gingerbread_ore": "Gingerbread Ore",
+  "block.tutorialmod.gingerbread_deepslate_ore": "Gingerbread Deepslate Ore",
+
+  "creativetab.tutorialmod.gingerbread_items": "Gingerbread Items",
+  "creativetab.tutorialmod.gingerbread_blocks": "Gingerbread Blocks"
 }

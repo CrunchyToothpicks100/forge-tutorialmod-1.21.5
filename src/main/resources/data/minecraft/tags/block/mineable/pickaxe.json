@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "tutorialmod:gingerbread_block",
+    "tutorialmod:raw_gingerbread_block",
+    "tutorialmod:gingerbread_ore",
+    "tutorialmod:gingerbread_deepslate_ore"
+  ]
+}
